@@ -1,0 +1,8 @@
+- https://cssgradient.io/
+- https://coolors.co/b8336a-c490d1-acacde-abdafc-e5fcff
+CSS Colors:
+
+Corn - #E7E247
+Black Olive - #3D3B30
+Independence - #4D5061
+Illuminating Emerald - #1A936F
