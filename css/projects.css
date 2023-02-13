@@ -135,3 +135,9 @@ body.active .wrapper .section{
   margin-left: 0;
   width: 100%;
 }
+
+/* Projects Heading */
+.projectsHeading {
+  font-family: 'Open Sans', sans-serif;
+}
+
