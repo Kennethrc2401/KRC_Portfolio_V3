@@ -135,3 +135,19 @@ body.active .wrapper .section{
   margin-left: 0;
   width: 100%;
 }
+
+/* Robotics Section */
+.roboticsSection {
+  max-width: 94%;
+  justify-self: center;
+}
+.jumbotron {
+  max-width: auto;
+  display: flex;
+}
+.robotImage {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+}
